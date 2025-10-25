@@ -11,3 +11,7 @@ Animal Crossing-like fishing game for teaching Unity!
 - Characters: https://chaoswitchnikol.itch.io/animal-characters
 - SFX: https://jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack
 - Font: https://datagoblin.itch.io/monogram
+
+## Canva Slides
+
+- https://www.canva.com/design/DAG2oWImQ3g/Scf8CkoCBVm2nJ6x15Rc2A/edit
